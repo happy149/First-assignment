@@ -1,0 +1,74 @@
+body{
+    font-family: 'Bebas Neue', cursive;
+}
+h1{
+    font-size: 50px;
+}
+.name-highlight{
+    color:orangered;
+}
+
+.half-width{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+
+
+.link-button{
+    text-decoration: none;
+    background-color:orangered;
+    padding: 10px 20px;
+    border-radius: 5px;
+    color: white;
+    font: weight 700; ;
+} 
+.half-width{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+.half-width img{
+    width: 75%;
+    order-radius: 250px;
+}
+section{
+    height: 500px;
+    padding-bottom: 50px;
+}
+
+.power{
+    float: left;
+    width: 29%;
+    margin-left: 2%;
+    padding-left: 2%;
+    padding-top: 2%;
+    font-weight: normal;
+    text-align: center;
+        box-shadow: 10px 10px 40px gray;
+        border-radius: 5px;
+        height: 60%;
+        background-color: white;}
+
+.power img{width: 70%;}
+
+footer{text-align: center;}
+.section-header{text-align: center;}
+
+.work-inquiry{padding: 20px; font-size: 26px;
+    height: 225px;
+    background:url('images/Group_33094_1.png') no-repeat;
+    background-size: 100%;
+    width: 60%; 
+    margin: 0px auto;
+}
+.work-inquiry h2{float: left; color: #fff;margin-top: 50px;}
+.work-inquiry a{float: right; margin-top: 50px;}
+section.work{height: 250px;}
+
+.footer-icons img{width: 5%;}
+.header{clear: both; height: 100px;}
+.header .nav{float: right; margin-right: 15%; }
+.nav li{ float: left; margin-right: 30px; list-style-type: none;}
